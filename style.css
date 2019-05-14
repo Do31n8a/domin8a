@@ -1,0 +1,41 @@
+/*
+dark primary color: #1976D2
+primary color: #2196F3
+accent color: #536DFE
+text: #FFFFFF
+hover text: #212121
+*/
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+h1 {
+    background-color: #1976D2;
+    color: #FFFFFF;
+    padding: 40px 150px;
+}
+
+section {
+    margin-left: 150px;
+}
+
+nav {
+    background-color: #2196F3;
+    padding: 40px 150px;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav a {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #212121;
+}
